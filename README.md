@@ -11,9 +11,9 @@ Guiado por minha paixão pela tecnologia e inovação, lidero a GlobalFlex Cloud
 ### Parceria e Colaboração
 Além da liderança, valorizo a colaboração e estabeleço parcerias estratégicas para impulsionar o crescimento da GlobalFlex Cloud e a adoção de nossas soluções inovadoras.
 
-## Projetos em Desenvolvimento
+## Principais Produtos
 
-### Criamos chips de alto desempenho para diversos setores
+### Chips de alto desempenho para diversos setores
 
 - **Chip IA: Visão Computacional**
 - **Chip IoT: Robôs Humanoides e Veículos Autônomos**
@@ -26,30 +26,33 @@ Além da liderança, valorizo a colaboração e estabeleço parcerias estratégi
 - **GoldMaster-X: Indústria do Ouro**
 - **Chips para Mineração, Cobre, Ferro, Diamante**
 
-### Chip - Visão Computacional
+### Descrições Detalhadas dos Produtos
+
+#### Chip - Visão Computacional
 O chip de Visão Computacional SaaS na AWS é uma ferramenta poderosa que pode ajudar empresas a otimizar seus ciclos de fornecimento e receita.
 
-### Chips para Veículos Autônomos e Robôs Humanoides
-A GlobalFlex Cloud projeta chips poderosos e eficientes para processamento em tempo real em veículos autônomos e robôs humanoides, melhorando a segurança e as capacidades de interação.
+#### Chips para Veículos Autônomos e Robôs Humanoides
+GlobalFlex Cloud projeta chips poderosos e eficientes para processamento em tempo real em veículos autônomos e robôs humanoides, melhorando a segurança e as capacidades de interação.
 
-### DeFi Chip na AWS Cloud
+#### DeFi Chip na AWS Cloud
 O objetivo do DeFi Chip na AWS Cloud é democratizar o acesso a serviços financeiros descentralizados (DeFi) para indivíduos e empresas.
 
-### Chips para o Setor Bancário
-A GlobalFlex Cloud desenvolve chips seguros e de alto desempenho voltados para o setor bancário, aprimorando a velocidade das transações, a segurança dos dados e a análise em tempo real.
+#### Chips para o Setor Bancário
+GlobalFlex Cloud desenvolve chips seguros e de alto desempenho voltados para o setor bancário, aprimorando a velocidade das transações, a segurança dos dados e a análise em tempo real.
 
-### Chips para a Indústria do Ouro
-A GlobalFlex Cloud desenvolve chips de alto desempenho voltados para a indústria do ouro, aprimorando as operações de mineração, o processamento de dados em tempo real e a gestão de recursos.
+#### Chips para a Indústria do Ouro
+GlobalFlex Cloud desenvolve chips de alto desempenho voltados para a indústria do ouro, aprimorando as operações de mineração, o processamento de dados em tempo real e a gestão de recursos.
 
-### Chips para a Indústria do Petróleo
-A GlobalFlex Cloud projeta chips eficientes para a indústria do petróleo, otimizando a exploração, a análise de dados e a eficiência operacional em ambientes adversos.
+#### Chips para a Indústria do Petróleo
+GlobalFlex Cloud projeta chips eficientes para a indústria do petróleo, otimizando a exploração, a análise de dados e a eficiência operacional em ambientes adversos.
 
-### Criptomoeda GFC COIN
+#### Criptomoeda: GFC COIN
+Uma moeda digital inovadora projetada para revolucionar o mercado financeiro.
 
-### Blockchain ProcyonChain, que irá competir com a Ethereum
+#### Blockchain ProcyonChain
+O ProcyonChain é uma blockchain revolucionária que visa abordar e superar as restrições presentes em blockchains contemporâneas, como o Ethereum. Especificamente, a ProcyonChain foca em melhorias significativas em quatro áreas principais: escalabilidade, segurança, eficiência e custos de transação.
 
-### Chips para McLaren Racing
-
+#### Chips para McLaren Racing
 1. **Chip para Análise de Dados de Corrida em Tempo Real**
    - Nome do Chip: McLaren DataStream
 2. **Chip para Simulação e Modelagem Avançadas**
@@ -59,16 +62,14 @@ A GlobalFlex Cloud projeta chips eficientes para a indústria do petróleo, otim
 4. **Chip para Engajamento dos Fãs de Forma Imersiva**
    - Nome do Chip: McLaren FanWave
 
-### IA Generativa - HealthSimVR
-
-#### Simulação Imersiva de Treinamento para Profissionais de Saúde (HealthSimVR)
+#### IA Generativa - HealthSimVR
+Simulação Imersiva de Treinamento para Profissionais de Saúde (HealthSimVR)
 - **Descrição**: Desenvolvimento de simulações AR/VR avançadas para treinamento de profissionais de saúde, usando IA generativa para criar cenários clínicos dinâmicos e interativos.
 - **Tech Stack**: AWS RoboMaker, Amazon Sumerian, AWS Machine Learning Services.
 - **Documentação Completa do Projeto**: HealthSimVR
 - **Diferenciação e Barreira de Entrada**: Oportunidade para diferenciação com IA generativa para criar simulações imersivas altamente realistas.
 
-### Chips Neuralink
-
+#### Chips Neuralink
 1. **NeuralSignal-Pro**
    - **Descrição**: Chip especializado no processamento avançado de sinais neurais. Utiliza algoritmos sofisticados para interpretar sinais cerebrais com alta precisão, traduzindo esses sinais em comandos executáveis para dispositivos externos.
    - **Função Principal**: Processamento em tempo real e tradução de sinais neurais.
@@ -85,9 +86,20 @@ A GlobalFlex Cloud projeta chips eficientes para a indústria do petróleo, otim
    - **Descrição**: Chip focado em segurança e privacidade dos dados neurais. Implementa criptografia avançada, autenticação de dois fatores e monitoramento em tempo real para proteger os dados dos usuários.
    - **Função Principal**: Proteção de dados sensíveis e segurança da infraestrutura.
 
+### Chips HPC
+#### Chip: V-NeuroSim AWS
+1. **Título**: V-NeuroSim AWS: O Futuro da Inteligência Artificial
+   - **Subtítulo**: Simulação Avançada de Redes Neurais em Nuvem
+   - **Descrição**: Apresentação do projeto V-NeuroSim AWS, uma plataforma de simulação de chips virtuais para IA utilizando a infraestrutura da Amazon Web Services (AWS).
+   - 
+#### Chip HPC: DataNav - Chip Virtual para Processamento de Grandes Volumes de Dados
+1. **Título**: DataNav.
+   - **Objetivo**: Desenvolver um chip virtual chamado DataNav capaz de suportar e otimizar o processamento de grandes volumes de dados utilizando os recursos escaláveis da Amazon Web Services (AWS).
+   - **Setor-Alvo**: High Performance Computing (HPC).
+
 ## Educação
 
-- **Terceiro ano em Ciência de Dados pela Uninove**
+- **Terceiro Semestre em Ciência de Dados pela Uninove**
 - **Cursos Extracurriculares**: Coursera, edX (Stanford, MIT, Harvard)
 
 ## Contato
