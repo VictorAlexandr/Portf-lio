@@ -27,7 +27,8 @@ Além da liderança, valorizo a colaboração e estabeleço parcerias estratégi
 - **Chips Neuralink (parceria futura)**
 - **PetroMaster-X:** Indústria do Petróleo
 - **GoldMaster-X:** Indústria do Ouro
-- **Chips para Mineração, Cobre, Ferro, Diamante
+- **Chips para Mineração, Cobre, Ferro, Diamante**
+- **Chip - VigilantEye:** Análise e Detecção de Imagens para a Receita Federal
 
 ## Descrições Detalhadas dos Produtos
 
