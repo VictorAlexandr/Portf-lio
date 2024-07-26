@@ -77,8 +77,6 @@ O ProcyonChain é uma blockchain revolucionária que visa abordar e superar as r
 
 ### Simulação Imersiva de Treinamento para Profissionais de Saúde (HealthSimVR)
 **Descrição:** Desenvolvimento de simulações AR/VR avançadas para treinamento de profissionais de saúde, usando IA generativa para criar cenários clínicos dinâmicos e interativos.  
-**Tech Stack:** AWS RoboMaker, Amazon Sumerian, AWS Machine Learning Services.  
-**Documentação Completa do Projeto:** HealthSimVR  
 **Diferenciação e Barreira de Entrada:** Oportunidade para diferenciação com IA generativa para criar simulações imersivas altamente realistas.
 
 ## Chips Neuralink
